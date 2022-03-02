@@ -57,7 +57,7 @@ namespace Etapa_No._2.Controllers
            lote.Id = Convert.ToInt32(HttpContext.Session.GetInt32("Id"));
            lt.Cadastrar(lote);
            
-           return RedirectToAction("Listagem","Loteamento");
+           return RedirectToAction("Servicos","Home");
         }
 
 

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Etapa No. 2.csproj",
+  "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Etapa No. 2.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,68 +14402,68 @@
   "RootNamespace": "Etapa_No._2",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Home\\Institucional.cshtml",
-      "TargetPath": "Views\\Home\\Institucional.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Loteamento\\Listagem.cshtml",
-      "TargetPath": "Views\\Loteamento\\Listagem.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Loteamento\\Cadastro.cshtml",
-      "TargetPath": "Views\\Loteamento\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Loteamento\\Editar.cshtml",
-      "TargetPath": "Views\\Loteamento\\Editar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Home\\backup.cshtml",
-      "TargetPath": "Views\\Home\\backup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Views\\Home\\Servicos.cshtml",
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Loteamento\\Cadastro.cshtml",
+      "TargetPath": "Views\\Loteamento\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Loteamento\\Listagem.cshtml",
+      "TargetPath": "Views\\Loteamento\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Home\\Institucional.cshtml",
+      "TargetPath": "Views\\Home\\Institucional.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Loteamento\\Editar.cshtml",
+      "TargetPath": "Views\\Loteamento\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Home\\backup.cshtml",
+      "TargetPath": "Views\\Home\\backup.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Home\\Servicos.cshtml",
       "TargetPath": "Views\\Home\\Servicos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],

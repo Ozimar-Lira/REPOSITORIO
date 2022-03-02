@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Etapa No. 2.csproj": {}
+    "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Etapa No. 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Etapa No. 2.csproj": {
+    "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Etapa No. 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Etapa No. 2.csproj",
+        "projectUniqueName": "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Etapa No. 2.csproj",
         "projectName": "Etapa No. 2",
-        "projectPath": "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\Etapa No. 2.csproj",
+        "projectPath": "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\Etapa No. 2.csproj",
         "packagesPath": "C:\\Users\\ozima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa No. 2\\obj\\",
+        "outputPath": "C:\\Users\\ozima\\Dropbox\\Ozimar\\Sesc\\Tecnico\\Estudos\\Modulo_B\\UC08\\Projeto Integrador\\Etapa 05\\Etapa No. 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ozima\\AppData\\Roaming\\NuGet\\NuGet.Config"
